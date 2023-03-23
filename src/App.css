@@ -1,0 +1,20 @@
+.App h1 {
+  margin-left: 25%;
+}
+h2 {
+  text-align: center;
+  color: brown;
+  font-weight: 700;
+}
+.myForm {
+  width: 60%;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.App img {
+  width: 25%;
+  border-radius: 50%;
+  margin: 20px;
+  margin-left: 35%
+}

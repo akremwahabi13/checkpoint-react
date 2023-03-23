@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Pacifico&family=Rubik+Iso&display=swap");
+
+body {
+  margin: 10px 20px !important;
+  font-family: "Rubik Iso", cursive !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000 !important;
+  color: #fff !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
